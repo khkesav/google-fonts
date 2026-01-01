@@ -10,13 +10,13 @@ For documentation, please see: https://developers.google.com/fonts/docs/getting_
 
 ### List of Google Fonts
 
-| Font Name | Variant |
-|-----------|---------|
+| Font Name | Variants |
+|-----------|----------|
 | ABeeZee | 400 |
 | ADLaM Display | 400 |
-| AR One Sans | 700 |
+| AR One Sans | 400,700 |
 | Abel | 400 |
-| Abhaya Libre | 800 |
+| Abhaya Libre | 400,700,800 |
 | Aboreto | 400 |
 | Abril Fatface | 400 |
 | Abyssinica SIL | 400 |
@@ -24,123 +24,123 @@ For documentation, please see: https://developers.google.com/fonts/docs/getting_
 | Acme | 400 |
 | Actor | 400 |
 | Adamina | 400 |
-| Advent Pro | 900 |
-| Afacad | 700 |
-| Afacad Flux | 900 |
+| Advent Pro | 400,700,900 |
+| Afacad | 400,700 |
+| Afacad Flux | 400,900 |
 | Agbalumo | 400 |
-| Agdasima | 700 |
+| Agdasima | 400,700 |
 | Agu Display | 400 |
 | Aguafina Script | 400 |
-| Akatab | 900 |
+| Akatab | 400,900 |
 | Akaya Kanadaka | 400 |
 | Akaya Telivigala | 400 |
 | Akronim | 400 |
-| Akshar | 700 |
+| Akshar | 400,700 |
 | Aladin | 400 |
-| Alan Sans | 900 |
+| Alan Sans | 400,900 |
 | Alata | 400 |
 | Alatsi | 400 |
-| Albert Sans | 900 |
+| Albert Sans | 400,900 |
 | Aldrich | 400 |
-| Alef | 700 |
-| Alegreya | 900 |
-| Alegreya SC | 900 |
-| Alegreya Sans | 900 |
-| Alegreya Sans SC | 900 |
-| Aleo | 900 |
+| Alef | 400,700 |
+| Alegreya | 400,700,900 |
+| Alegreya SC | 400,900 |
+| Alegreya Sans | 400,900 |
+| Alegreya Sans SC | 400,900 |
+| Aleo | 400,900 |
 | Alex Brush | 400 |
-| Alexandria | 900 |
+| Alexandria | 400,900 |
 | Alfa Slab One | 400 |
 | Alice | 400 |
 | Alike | 400 |
 | Alike Angular | 400 |
 | Alkalami | 400 |
-| Alkatra | 700 |
-| Allan | 700 |
+| Alkatra | 400,700 |
+| Allan | 400,700 |
 | Allerta | 400 |
 | Allerta Stencil | 400 |
 | Allison | 400 |
 | Allura | 400 |
-| Almarai | 800 |
-| Almendra | 700 |
+| Almarai | 400,800 |
+| Almendra | 400,700 |
 | Almendra Display | 400 |
 | Almendra SC | 400 |
-| Alumni Sans | 900 |
+| Alumni Sans | 400,900 |
 | Alumni Sans Collegiate One | 400 |
 | Alumni Sans Inline One | 400 |
 | Alumni Sans Pinstripe | 400 |
-| Alumni Sans SC | 900 |
+| Alumni Sans SC | 400,900 |
 | Amarante | 400 |
-| Amaranth | 700 |
-| Amarna | 700 |
-| Amatic SC | 700 |
+| Amaranth | 400,700 |
+| Amarna | 400,700 |
+| Amatic SC | 400,700 |
 | Amethysta | 400 |
-| Amiko | 700 |
-| Amiri | 700 |
+| Amiko | 400,700 |
+| Amiri | 400,700 |
 | Amiri Quran | 400 |
-| Amita | 700 |
-| Anaheim | 800 |
-| Ancizar Sans | 900 |
-| Ancizar Serif | 900 |
-| Andada Pro | 800 |
-| Andika | 700 |
-| Anek Bangla | 800 |
-| Anek Devanagari | 800 |
-| Anek Gujarati | 800 |
-| Anek Gurmukhi | 800 |
-| Anek Kannada | 800 |
-| Anek Latin | 800 |
-| Anek Malayalam | 800 |
-| Anek Odia | 800 |
-| Anek Tamil | 800 |
-| Anek Telugu | 800 |
+| Amita | 400,700 |
+| Anaheim | 400,800 |
+| Ancizar Sans | 400,900 |
+| Ancizar Serif | 400,900 |
+| Andada Pro | 400,800 |
+| Andika | 400,700 |
+| Anek Bangla | 400,800 |
+| Anek Devanagari | 400,800 |
+| Anek Gujarati | 400,800 |
+| Anek Gurmukhi | 400,800 |
+| Anek Kannada | 400,800 |
+| Anek Latin | 400,800 |
+| Anek Malayalam | 400,800 |
+| Anek Odia | 400,800 |
+| Anek Tamil | 400,800 |
+| Anek Telugu | 400,800 |
 | Angkor | 400 |
-| Annapurna SIL | 700 |
+| Annapurna SIL | 400,700 |
 | Annie Use Your Telescope | 400 |
-| Anonymous Pro | 700 |
+| Anonymous Pro | 400,700 |
 | Anta | 400 |
 | Antic | 400 |
 | Antic Didone | 400 |
 | Antic Slab | 400 |
 | Anton | 400 |
 | Anton SC | 400 |
-| Antonio | 700 |
-| Anuphan | 700 |
-| Anybody | 900 |
+| Antonio | 400,700 |
+| Anuphan | 400,700 |
+| Anybody | 400,900 |
 | Aoboshi One | 400 |
 | Arapey | 400 |
 | Arbutus | 400 |
 | Arbutus Slab | 400 |
 | Architects Daughter | 400 |
-| Archivo | 900 |
+| Archivo | 400,900 |
 | Archivo Black | 400 |
-| Archivo Narrow | 700 |
+| Archivo Narrow | 400,700 |
 | Are You Serious | 400 |
-| Aref Ruqaa | 700 |
-| Aref Ruqaa Ink | 700 |
-| Arima | 700 |
-| Arimo | 700 |
+| Aref Ruqaa | 400,700 |
+| Aref Ruqaa Ink | 400,700 |
+| Arima | 400,700 |
+| Arimo | 400,700 |
 | Arizonia | 400 |
 | Armata | 400 |
-| Arsenal | 700 |
-| Arsenal SC | 700 |
+| Arsenal | 400,700 |
+| Arsenal SC | 400,700 |
 | Artifika | 400 |
-| Arvo | 700 |
-| Arya | 700 |
-| Asap | 900 |
-| Asap Condensed | 900 |
+| Arvo | 400,700 |
+| Arya | 400,700 |
+| Asap | 400,900 |
+| Asap Condensed | 400,900 |
 | Asar | 400 |
 | Asimovian | 400 |
 | Asset | 400 |
-| Assistant | 800 |
-| Asta Sans | 800 |
-| Astloch | 700 |
-| Asul | 700 |
-| Athiti | 700 |
-| Atkinson Hyperlegible | 700 |
-| Atkinson Hyperlegible Mono | 800 |
-| Atkinson Hyperlegible Next | 800 |
-| Atma | 700 |
+| Assistant | 400,800 |
+| Asta Sans | 400,800 |
+| Astloch | 400,700 |
+| Asul | 400,700 |
+| Athiti | 400,700 |
+| Atkinson Hyperlegible | 400,700 |
+| Atkinson Hyperlegible Mono | 400,800 |
+| Atkinson Hyperlegible Next | 400,800 |
+| Atma | 400,700 |
 | Atomic Age | 400 |
 | Aubrey | 400 |
 | Audiowide | 400 |
@@ -148,19 +148,19 @@ For documentation, please see: https://developers.google.com/fonts/docs/getting_
 | Average | 400 |
 | Average Sans | 400 |
 | Averia Gruesa Libre | 400 |
-| Averia Libre | 700 |
-| Averia Sans Libre | 700 |
-| Averia Serif Libre | 700 |
-| Azeret Mono | 900 |
-| B612 | 700 |
-| B612 Mono | 700 |
+| Averia Libre | 400,700 |
+| Averia Sans Libre | 400,700 |
+| Averia Serif Libre | 400,700 |
+| Azeret Mono | 400,900 |
+| B612 | 400,700 |
+| B612 Mono | 400,700 |
 | BBH Bartle | 400 |
 | BBH Bogle | 400 |
 | BBH Hegarty | 400 |
-| BIZ UDGothic | 700 |
-| BIZ UDMincho | 700 |
-| BIZ UDPGothic | 700 |
-| BIZ UDPMincho | 700 |
+| BIZ UDGothic | 400,700 |
+| BIZ UDMincho | 400,700 |
+| BIZ UDPGothic | 400,700 |
+| BIZ UDPMincho | 400,700 |
 | Babylonica | 400 |
 | Bacasime Antique | 400 |
 | Bad Script | 400 |
@@ -168,25 +168,25 @@ For documentation, please see: https://developers.google.com/fonts/docs/getting_
 | Bagel Fat One | 400 |
 | Bahiana | 400 |
 | Bahianita | 400 |
-| Bai Jamjuree | 700 |
+| Bai Jamjuree | 400,700 |
 | Bakbak One | 400 |
 | Ballet | 400 |
-| Baloo 2 | 800 |
-| Baloo Bhai 2 | 800 |
-| Baloo Bhaijaan 2 | 800 |
-| Baloo Bhaina 2 | 800 |
-| Baloo Chettan 2 | 800 |
-| Baloo Da 2 | 800 |
-| Baloo Paaji 2 | 800 |
-| Baloo Tamma 2 | 800 |
-| Baloo Tammudu 2 | 800 |
-| Baloo Thambi 2 | 800 |
+| Baloo 2 | 400,800 |
+| Baloo Bhai 2 | 400,800 |
+| Baloo Bhaijaan 2 | 400,800 |
+| Baloo Bhaina 2 | 400,800 |
+| Baloo Chettan 2 | 400,800 |
+| Baloo Da 2 | 400,800 |
+| Baloo Paaji 2 | 400,800 |
+| Baloo Tamma 2 | 400,800 |
+| Baloo Tammudu 2 | 400,800 |
+| Baloo Thambi 2 | 400,800 |
 | Balsamiq Sans | 400 |
 | Balthazar | 400 |
 | Bangers | 400 |
-| Barlow | 900 |
-| Barlow Condensed | 900 |
-| Barlow Semi Condensed | 900 |
+| Barlow | 400,900 |
+| Barlow Condensed | 400,900 |
+| Barlow Semi Condensed | 400,900 |
 | Barriecito | 400 |
 | Barrio | 400 |
 | Basic | 400 |
@@ -313,6 +313,8 @@ For documentation, please see: https://developers.google.com/fonts/docs/getting_
 | Catamaran | 400 |
 | Caudex | 400 |
 | Cause | 400 |
+| Zilla Slab | 300,400,500,600,700 |
+| Zilla Slab Highlight | 400,700 |
 
 
 ---
